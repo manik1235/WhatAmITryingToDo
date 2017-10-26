@@ -1,0 +1,35 @@
+Languages
+Scratch
+VB.net
+C#.net
+F#.net
+Python
+Java
+JavaScript
+asp.net
+
+Frameworks
+.NET
+
+OSes
+Android
+PC
+iOS
+Mac, I guess
+Linux, I guess
+
+Concepts
+Classes
+Inheritance
+
+
+What am I trying to accomplish?
+Have fun
+Know how to create programs for the platforms I use (Windows, Android)
+Make games for Arthur
+Use it as a skill to increase my attractiveness in the job market
+Use it as a skill for my own company
+
+
+
+
